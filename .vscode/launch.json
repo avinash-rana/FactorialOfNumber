@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "FactorialOfNumber_1cc42fee"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorialOfNumber",
+            "request": "launch",
+            "mainClass": "FactorialOfNumber",
+            "projectName": "FactorialOfNumber_1cc42fee"
+        }
+    ]
+}
